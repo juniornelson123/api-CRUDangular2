@@ -6,3 +6,5 @@ api-CRUDangular2
 npm install
 
 nodemon app.js
+
+obs. http://localhost:3000
